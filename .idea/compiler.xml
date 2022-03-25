@@ -24,6 +24,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="algorithms-miscellaneous-2" target="11" />
+      <module name="martianrobots" target="11" />
       <module name="maze-explorer" target="1.5" />
     </bytecodeTargetLevel>
   </component>

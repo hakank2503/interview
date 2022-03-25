@@ -5,6 +5,5 @@
     <mapping directory="$PROJECT_DIR$/Maze Test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ee" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fizzbuzz2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/martianrobots" vcs="Git" />
   </component>
 </project>

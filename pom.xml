@@ -11,6 +11,9 @@
     <modules>
         <module>set-from-scratch</module>
         <module>fizzbuzz</module>
+        <module>ee</module>
+        <module>fizzbuzz2</module>
+        <module>Maze Test</module>
     </modules>
 
     <properties>
